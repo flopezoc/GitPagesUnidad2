@@ -4,8 +4,8 @@ body{
 	background: #ffffff;
 	border-bottom-style: dashed;
 }
-th{
-	appearance: icon;
+table{
+	appearance:button;
 	bottom: auto;
 	
 }
