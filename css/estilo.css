@@ -1,6 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
 body{
-  background: #blue;
-  color: #000000;
-  font-family: 'Open Sans','sans-serif';
-  font-weight: bold;
+	background: #ffffff;
+	border-bottom-style: dashed;
 }
+th{
+	appearance: icon;
+	bottom: auto;
+	
+}
+
+	
